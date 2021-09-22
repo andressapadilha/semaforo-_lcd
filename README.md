@@ -2,6 +2,11 @@
 
   Deseja-se controlar dois semáforos em um cruzamento de duas vias (Atividade Aula 03).
   É solicitado que na caixa de controle do sistema tenha um lcd 16 x 2 para informar o estado de cada semáforo.
+  
+  Este semáforo tem temporizador que valerá para ambos os semáforos.
+  
+  *Dos segundos 9 ao 4 é para o ABERTO (led verde) e FECHADO (led vermelho)
+  E os 3 segundos restantes será para o ESPERA (led amarelo)*
 
    Onde no display com I2C, aparecerão as seguintes mensagens:
 
