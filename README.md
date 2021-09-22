@@ -1,8 +1,5 @@
 ### Semáforo com Display com I2C
 
-
-semaforo_lcd_1_3_0
-
   Deseja-se controlar dois semáforos em um cruzamento de duas vias (Atividade Aula 03).
   É solicitado que na caixa de controle do sistema tenha um lcd 16 x 2 para informar o estado de cada semáforo.
 
